@@ -1,0 +1,5 @@
+<?
+$MESS['SALE_TINKOFF_PAYMENT_NOT_SPECIFIED'] = 'Не указано';
+
+
+
